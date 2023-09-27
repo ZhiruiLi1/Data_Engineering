@@ -1,0 +1,1 @@
+This capstone project, part of an advanced data engineering course, uncovers profound insights into predicting ad click-through rates. It evaluates the probability of ad engagement for specific products, considering the sentiment of accompanying text and demographic attributes like gender and age of the potential viewer.
